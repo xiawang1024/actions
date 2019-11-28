@@ -1,0 +1,23 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiawang1024/actions.git"
+  },
+  "author": "xiawang1024",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiawang1024/actions/issues"
+  },
+  "homepage": "https://github.com/xiawang1024/actions#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
